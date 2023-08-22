@@ -6,13 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import com.bangkit.aispresso.data.storage.PreferencesClass
 import com.bangkit.aispresso.databinding.ActivitySplashBinding
-import com.bangkit.aispresso.view.camera.CameraActivity
 import com.bangkit.aispresso.view.camera.coffeprocessing.CoffeClasifyActivity
-import com.bangkit.aispresso.view.dashboard.DashboardActivity
-import com.bangkit.aispresso.view.onboarding.OnboardingActivity
-
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
 
