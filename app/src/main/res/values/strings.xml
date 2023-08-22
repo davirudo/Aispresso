@@ -63,6 +63,10 @@
     <string name="success">Otentikasi Berhasil</string>
     <string name="title_biometric_prompt">Aispresso</string>
     <string name="description_biometric_prompt">Gunakan Sidik Jari Untuk Masuk</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="confidences">Confidences:</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="coffee_classify">Coffee Classify</string>
 
 
 </resources>
